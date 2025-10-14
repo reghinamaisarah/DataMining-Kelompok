@@ -609,4 +609,4 @@ with tab3:
                                file_name=f"clustering_results_k{K}.csv", mime="text/csv",
                                use_container_width=True)
 
-st.caption("Catatan: Kolom demografi (Timestamp, Nama, Jenis Kelamin, Program Studi, Semester) tidak dipakai untuk perhitungan K-Means, hanya untuk deskripsi/interpretasi.")
+st.caption("Note: Kolom demografi (Timestamp, Nama, Jenis Kelamin, Program Studi, Semester) tidak dipakai untuk perhitungan K-Means, hanya untuk deskripsi/interpretasi.")
