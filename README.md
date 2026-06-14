@@ -67,9 +67,3 @@ Analisis Cluster
 - Visualisasi PCA 2D
 - Analisis cluster
 - Export hasil dalam format CSV
-
-## Author
-
-Nama Anda  
-Program Studi Teknik Informatika  
-Universitas Bina Sarana Informatika
